@@ -1,3 +1,6 @@
+# NOTICE
+To the surprise of actually **EVERYONE**, kyle has updated the mod. Check it out [here](https://github.com/KyleTheScientist/WalkSimulator). I'm so shocked lol.
+
 # WalkSimulator
 This still has the same lobby logic as the original (only works if ur in a modded lobby or not in a lobby)
 
